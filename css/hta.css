@@ -115,7 +115,11 @@ a {
 {
   display: none;
 }
-
+.button-54 a
+{
+  text-decoration: none;
+  color: black;
+}
 
 /*============================================================
 	Tablet (Portrait) Design for a width of 768px
