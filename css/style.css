@@ -8,7 +8,7 @@ body {
   padding: 0;
   margin: 0;
   font-size: 14px;
-  background-color: #2F2F2F;
+  background-color: #A3E4DB;
 }
 
 .padding_top {
@@ -145,7 +145,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
 
 .section_tittle h2 {
   font-size: 42px;
-  color: #ffffff;
+  color: #243D25;
   line-height: 37px;
   font-weight: 700;
   position: relative;
@@ -218,7 +218,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
 }
 
 .section_tittle p {
-  color: #b0bcce;
+  color: #1C6DD0;
   font-weight: 500;
   text-transform: uppercase;
   line-height: 11px;
@@ -381,7 +381,7 @@ ul {
   padding: 35px 35px 40px;
   border: 1px solid #edeff2;
   border-top: 0px;
-  background-color: #FFCB74 ;
+  background-color: #FED1EF ;
 }
 
 @media (max-width: 576px) {
